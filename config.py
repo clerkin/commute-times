@@ -24,7 +24,7 @@ def get_from_json(var_name):
 
 def get_conf(var_name):
     """
-    this helper looks in VT_SYSTEMD_JSON_PATH
+    this helper looks in JSON_PATH
     then looks in environment variables
     and returns the configuration
     """

@@ -1,0 +1,14 @@
+.ftpconfig
+.ftpignore
+.pylintrc
+.tags1
+/.ipynb_checkpoints/**
+pylint.bat
+__pycache__/
+
+#Ignore Proto and Scratch files
+scratch*
+
+#private config and cred files
+config.json
+Commute Times-7bcfb9a5c4ca.json
